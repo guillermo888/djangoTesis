@@ -1,4 +1,4 @@
 from django.http import HttpResponse
 
 def index(request):
-	return HttpResponse("Hola mundo esta es mi aplicacion de django")
+	return HttpResponse("est aes un prueba de la primera aplicacion")
